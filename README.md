@@ -72,9 +72,8 @@ If you find VGFM helpful for your research, please consider citing our work:
 wang2025joint,
 title={Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling},
 author={Dongyi Wang and Yuanwei Jiang and Zhenyi Zhang and Xiang Gu and Peijie Zhou and Jian Sun},
-booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
-year={2025},
-url={https://openreview.net/forum?id=aXAkNlbnGa}
+booktitle={NeurIPS},
+year={2025}
 }
 ```
 
